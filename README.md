@@ -17,13 +17,9 @@ Visualization: Utilized visual tools to represent segments and their defining fe
 
 🛠️Technologies Used
 Python: Primary language for data analysis.
-
 pandas: For data manipulation and analysis.
-
 numpy: For numerical operations.
-
 scikit-learn: For implementing clustering algorithms.
-
 matplotlib / seaborn: For data visualization.
 
 🚀Outcomes & Impact
