@@ -1,0 +1,41 @@
+Distributor ID,Company Name,Country,State,City ,Order Volume,Payment Score,Delivery Performance,Complaint Count,Engagement Score,Product Category,Contact Person,Contact Email,Phone Number
+D1001,SteelMart Distributors,India,Jharkhand,Jamshedpur,120,85,95,1,60,Steel Sheets,Rajiv Sharma,rajiv.sharma@steelmart.com,'+91-9876543210
+D1002,Metro Steel Supply,India,Maharashtra,Mumbai,95,78,88,0,55,Steel Rods,Anita Desai,anita.desai@metrosteel.com,'+91-9876543211
+D1003,Global Metals,India,West Bengal,Kolkata,110,92,90,2,70,Steel Coils,Sandeep Ghosh,sandeep.ghosh@globalmetals.com,'+91-9876543212
+D1004,Alloy Traders,India,Tamil Nadu,Chennai,130,80,93,1,65,Alloy Steel,Prakash Kumar,prakash.kumar@alloytraders.com,'+91-9876543213
+D1005,Prime Steel Agency,India,Gujarat,Ahmedabad,105,88,91,0,62,Steel Plates,Meena Patel,meena.patel@primesteel.com,'+91-9876543214
+D1006,East India Distributors,India,Odisha,Bhubaneswar,140,75,87,2,58,Steel Bars,Arvind Nayak,arvind.nayak@eastindiadistributors.com,'+91-9876543215
+D1007,North Star Metals,India,Uttar Pradesh,Kanpur,100,90,94,1,68,Steel Pipes,Deepak Singh,deepak.singh@northstarmetals.com,'+91-9876543216
+D1008,Urban Steel Traders,India,Karnataka,Bengaluru,125,82,89,0,63,Steel Wires,Shilpa Rao,shilpa.rao@urbansteel.com,'+91-9876543217
+D1009,Western Steel Corp,India,Maharashtra,Pune,135,77,92,2,59,Steel Rods,Ajay Joshi,ajay.joshi@westernsteel.com,'+91-9876543218
+D1010,Central Steel House,India,Madhya Pradesh,Bhopal,115,86,90,1,66,Steel Sheets,Neha Verma,neha.verma@centralsteel.com,'+91-9876543219
+D1011,Sunrise Distributors,India,Telangana,Hyderabad,150,74,96,0,57,Steel Coils,Ravi Kumar,ravi.kumar@sunrisedist.com,'+91-9876543220
+D1012,Evergreen Metals,India,Kerala,Kochi,90,93,85,2,72,Steel Plates,Anil Menon,anil.menon@evergreenmetals.com,'+91-9876543221
+D1013,Shree Steel Suppliers,India,Rajasthan,Jaipur,145,76,93,1,61,Steel Bars,Manish Jain,manish.jain@shreesteel.com,'+91-9876543222
+D1014,Modern Steel Agency,India,Delhi,New Delhi,108,89,94,0,69,Steel Pipes,Sunita Mehra,sunita.mehra@modernsteel.com,'+91-9876543223
+D1015,Alpha Steel Traders,India,Haryana,Gurugram,112,91,91,2,67,Steel Wires,Kapil Chawla,kapil.chawla@alphasteel.com,'+91-9876543224
+D1016,Blue Star Distributors,India,Chhattisgarh,Raipur,138,79,88,1,64,Steel Rods,Priyanka Sahu,priyanka.sahu@bluestar.com,'+91-9876543225
+D1017,City Steel Mart,India,Assam,Guwahati,102,87,92,0,60,Steel Sheets,Rohit Das,rohit.das@citysteel.com,'+91-9876543226
+D1018,Metro Metal House,India,West Bengal,Howrah,128,81,90,2,56,Steel Coils,Subhendu Sen,subhendu.sen@metrometal.com,'+91-9876543227
+D1019,Elite Steel Distributors,India,Andhra Pradesh,Vijayawada,118,83,95,1,71,Steel Plates,Krishna Reddy,krishna.reddy@elitesteel.com,'+91-9876543228
+D1020,Galaxy Steel Agency,India,Goa,Panaji,122,84,89,0,62,Steel Bars,Anuja Naik,anuja.naik@galaxysteel.com,'+91-9876543229
+D1021,Sun Metal Traders,India,Jharkhand,Ranchi,132,78,94,2,68,Steel Pipes,Satish Kumar,satish.kumar@sunmetal.com,'+91-9876543230
+D1022,United Steel House,India,Uttarakhand,Dehradun,98,92,87,1,54,Steel Wires,Nidhi Rawat,nidhi.rawat@unitedsteel.com,'+91-9876543231
+D1023,Classic Steel Suppliers,India,Odisha,Cuttack,142,75,93,0,73,Steel Rods,Biswajit Mohanty,biswajit.mohanty@classicsteel.com,'+91-9876543232
+D1024,Fortune Steel Corp,India,Tamil Nadu,Coimbatore,104,88,91,2,65,Steel Sheets,Arun Prasad,arun.prasad@fortunesteel.com,'+91-9876543233
+D1025,Star Steel Agency,India,Kerala,Thiruvananthapuram,124,82,90,1,63,Steel Coils,Deepa Nair,deepa.nair@starsteel.com,'+91-9876543234
+D1026,Delta Steel Distributors,India,Gujarat,Surat,134,77,92,0,69,Steel Plates,Vinay Patel,vinay.patel@deltasteel.com,'+91-9876543235
+D1027,Capital Metal House,India,Delhi,Delhi,101,86,89,2,58,Steel Bars,Geeta Sharma,geeta.sharma@capitalmetal.com,'+91-9876543236
+D1028,Super Steel Traders,India,Telangana,Secunderabad,129,74,94,1,70,Steel Pipes,Imran Khan,imran.khan@supersteel.com,'+91-9876543237
+D1029,Greenline Metals,India,Maharashtra,Nagpur,119,93,91,0,61,Steel Wires,Vaibhav Deshmukh,vaibhav.deshmukh@greenline.com,'+91-9876543238
+D1030,Oceanic Steel Agency,India,Andhra Pradesh,Visakhapatnam,121,76,95,2,67,Steel Rods,Shyam Sundar,shyam.sundar@oceanicsteel.com,'+91-9876543239
+D1031,Advance Steel Suppliers,India,West Bengal,Durgapur,131,89,88,1,66,Steel Sheets,Sumit Roy,sumit.roy@advancesteel.com,'+91-9876543240
+D1032,Urban Metal Traders,India,Karnataka,Mysuru,97,91,92,0,55,Steel Coils,Divya Shetty,divya.shetty@urbanmetal.com,'+91-9876543241
+D1033,Silverline Distributors,India,Madhya Pradesh,Indore,141,79,90,2,72,Steel Plates,Harshita Jain,harshita.jain@silverline.com,'+91-9876543242
+D1034,SteelLink Agency,India,Chhattisgarh,Bhilai,103,87,93,1,60,Steel Bars,Ritesh Tiwari,ritesh.tiwari@steellink.com,'+91-9876543243
+D1035,Metro Steel Mart,India,Rajasthan,Udaipur,123,81,89,0,64,Steel Pipes,Neeraj Singh,neeraj.singh@metromart.com,'+91-9876543244
+D1036,Allied Steel Distributors,India,Haryana,Faridabad,133,83,94,2,71,Steel Wires,Shruti Gupta,shruti.gupta@alliedsteel.com,'+91-9876543245
+D1037,SteelHub Traders,India,Odisha,Rourkela,99,84,91,1,59,Steel Rods,Amit Sahu,amit.sahu@steelhub.com,'+91-9876543246
+D1038,Prime Metal Agency,India,Assam,Silchar,127,78,96,0,68,Steel Sheets,Partha Sarathi,partha.sarathi@primemetal.com,'+91-9876543247
+D1039,Urban Steel House,India,Jharkhand,Bokaro,117,92,87,2,62,Steel Coils,Manoj Kumar,manoj.kumar@urbansteelhouse.com,'+91-9876543248
+D1040,National Steel Suppliers,India,Uttar Pradesh,Noida,137,80,93,1,69,Steel Plates,Praveen Yadav,praveen.yadav@nationalsteel.com,'+91-9876543249
